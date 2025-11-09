@@ -12,8 +12,6 @@ __pycache__/
 best_model_extract_optimized.pth
 citrus_efficientnetv2l_pytorch_final_checkpointed_optimized.pth
 
-*.png
-*.jpg
 logs/
 training_results_optimized.png
 confusion_matrix_optimized.png
