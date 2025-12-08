@@ -9,4 +9,9 @@ __pycache__/
 
 logs/
 
+best_model_extract.pth
+best_model_feature_extraction_temp.pth
+best_model_fine-tuning_temp.pth
+citrus_efficientnetv2l_final.pth
+
 .\venv\Scripts\activate
