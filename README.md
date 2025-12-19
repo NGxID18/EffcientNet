@@ -4,7 +4,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.9%2B-red?logo=pytorch)
 ![GUI](https://img.shields.io/badge/GUI-PyQt6-green?logo=qt)
 
-A high-performance Deep Learning application designed to classify and detect diseases in citrus leaves. This project utilizes the **EfficientNetV2-S** architecture with Transfer Learning techniques, achieving an impressive **~98.8% accuracy**. It also features a user-friendly Desktop GUI for real-time inference on local images.
+A high-performance Deep Learning application designed to classify and detect diseases in citrus leaves. This project utilizes the **EfficientNetV2-S** architecture with Transfer Learning techniques, achieving an impressive accuracy. It also features a user-friendly Desktop GUI for real-time inference on local images.
 
 ## ✨ Key Features
 
@@ -42,7 +42,7 @@ The model is trained to classify citrus leaves into **5 specific categories**:
 4.  **Healthy Leaf**
 5.  **Young Healthy Leaf**
 
-> **Model Performance**: The model achieved an accuracy of **~98.8%** on the validation dataset after the Fine-Tuning stage.
+> **Model Performance**: The model achieved an accuracy of **~98.70%** on the validation dataset after the Fine-Tuning stage.
 
 ---
 
